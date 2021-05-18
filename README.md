@@ -1,20 +1,16 @@
-<b><h2> BLoC Architecture Startup Project </h2> </b>
+<b><h2> Template for Bloc Flutter Projects </h2> </b>
 
-Hello everyone and welcome back! 
-
-This repo is going to serve as a starting project for every application I will build on my <b> BLoC - From Hero to Wizard </b> Tutorial Series on my <b> [Flutterly YouTube Channel](https://youtube.com/c/Flutterly)  </b>
+This repo is going to serve as a starting project for every application I will build in Future.
 
 <b><h2>  About the structure of the project </h2></b> 
 
 This main startup project will contain everything you'll need in order to immediately start developing your bloc-driven application. 
 
-<b> Here's some advantages: </b>
+<b> Basic Folder Tree of "lib" Folder </b>
 
-- <b> 🔹 [Pure Startup project](https://i.imgur.com/S9UIgQ4.png) </b>
-- <b> 🔹 [Organised Folder Structure](https://i.imgur.com/6jPVHx5.png)  </b>
-- <b> 🔹 [Required BLoC Dependencies](https://i.imgur.com/abBEVCj.png) </b>
-- <b> 🔹 Generated Routing </b>
-- 🔹🔹🔹 <b> More to be added soon... </b>
+![image](https://user-images.githubusercontent.com/56160262/118669873-bbd32b00-b813-11eb-84c3-6541881a743f.png)
+
+<b> Note:- </b>
 
 You might notice that some files are just dummy (like api.dart, model.dart). 
 They are placed there just for git to take the folder structure into consideration. 
