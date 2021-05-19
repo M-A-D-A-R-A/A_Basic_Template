@@ -2,7 +2,7 @@
 
 Hello everyone and welcome back! 
 
-This repo is going to serve as a starting project for every application I will build on my <b> BLoC - From Hero to Wizard </b> Tutorial Series on my <b> [Flutterly YouTube Channel](https://youtube.com/c/Flutterly)  </b>
+This repo is going to serve as a starting project for every application I will build on my <b> BLoC - From Hero to Wizard 
 
 <b><h2>  About the structure of the project </h2></b> 
 
