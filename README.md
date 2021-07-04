@@ -1,6 +1,6 @@
 <b><h2> Template for Bloc Flutter Projects </h2> </b>
 
-This repo is going to serve as a starting project for every application I will build in Future.
+This repo is going to serve as a starting project for every application I will build in Future (not all projects xD).
 
 <b><h2>  About the structure of the project </h2></b> 
 
